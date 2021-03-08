@@ -67,7 +67,12 @@ for f in p :
 ```
 
 # Result
-the results in `output` directory are below:
+>the results in `output` directory are below image:
+
+![newImage1](https://user-images.githubusercontent.com/53394692/110380627-9c7a8d80-806d-11eb-815f-8774ed656aaa.jpg)
+>the results in `output2` directory are below images:
+
+
 
 
 
