@@ -75,7 +75,7 @@ for f in p :
 
 ![7](https://user-images.githubusercontent.com/53394692/110381085-40643900-806e-11eb-87dc-c5425417471f.jpg)![8](https://user-images.githubusercontent.com/53394692/110381089-40fccf80-806e-11eb-81ef-6497894029c4.jpg)
 
-# Lisence
+# License
 >if you have any question about this topic ,please contact me via email `behnud.shafizadeh@gmail.com`,i hope that this topic will be useful for you.
 
 
