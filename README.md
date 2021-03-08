@@ -5,7 +5,7 @@ detecting vehicle from images using YOLOV3([IMAGE-AI repo](https://github.com/Ol
 > in this project,we have used YOLO-V3 Object Detection Model constructed by `IMAGE-AI` forked by me ,so by using YOLO-V3,i have enabled to exract vehicle in different image dataset,and passing them to CNN model for detecting vehicle color.
 
 ## to detect objects
->first,download ([IMAGE-AI repo](https://github.com/OlafenwaMoses/ImageAI)) and put `imageAI.ipynb` in this repo.then make 3 folder `input`,`output`,`output2` in this repo.
+>first,download ([IMAGE-AI repo](https://github.com/OlafenwaMoses/ImageAI)) and put `imageAI.ipynb` in this repo.then make 3 folders `input`,`output`,`output2` in this repo.
 
 >hint:put image dataset in `input` folder.
 
